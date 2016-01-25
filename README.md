@@ -1,0 +1,2 @@
+# emacs
+Lazy emacs safety.
